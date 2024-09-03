@@ -50,5 +50,11 @@ namespace monoooooohub
 
             base.Draw(gameTime);
         }
+    
+    public void plYERcONTROL()
+    {
+
+
     }
+  }
 }
