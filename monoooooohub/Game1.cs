@@ -9,6 +9,7 @@ namespace monoooooohub
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int gat;
+        int goal;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
